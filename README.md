@@ -4,7 +4,7 @@ mvnwebapp
 Google Appengine example app using webapp2 
 
 
-Create a virtual enviroment and install the required libs in pip-requires.tx
+Create a virtual enviroment and install the required libs in pip-requires.txt
 
     pip install -r pip-requires.txt
 
